@@ -1,4 +1,4 @@
-# APD - Tema2 - Protocolul BitTorrent
+# Protocolul BitTorrent
 
 ## 1. Tracker
 
